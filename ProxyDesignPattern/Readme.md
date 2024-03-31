@@ -3,7 +3,7 @@ The Proxy Design Pattern is a structural design pattern that provides a surrogat
 EX : VPN , College Internet
 
 ## Application
-   1) Access control
+   1) Access control (Important)
    2) Caching
    3) Prepossing and Postprocessing
    4) Middlewares
